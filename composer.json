@@ -1,0 +1,17 @@
+{
+    "name": "lawiet/entrego",
+    "description": "Entrego courier integration",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Jose Ramos",
+            "email": "jramosch@klikealo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Entrego\\": "src"
+        }
+    }
+}
